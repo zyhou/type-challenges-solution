@@ -6,10 +6,8 @@
             {
                 "ignoreRestSiblings": true,
                 "argsIgnorePattern": "^_",
-                "varsIgnorePattern": "_"
+                "varsIgnorePattern": "_|Cases"
             }
-        ],
-        "jest/expect-expect": "off",
-        "jest/no-disabled-tests": "off"
+        ]
     }
 }
